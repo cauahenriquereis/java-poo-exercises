@@ -11,6 +11,7 @@ Practical exercises from the Object-Oriented Programming with Java course — 5t
 | [Exercise 02](./exercise-02-classroom-management) | Classroom management with classes and OOP |
 | [Exercise 03](./exercise-03-band-management) | Band management with multiple classes |
 | [Exercise 04](./exercise-04-brownie-shop) | Brownie shop with concepts of Inheritance and Polymorphism |
+| [Exercise 05](./exercise-05-mammal-hierarchy) | Mammal hierarchy with Abstract Classes and Methods |
 
 ## Course
 Object-Oriented Programming with Java — INATEL, 5th Semester
